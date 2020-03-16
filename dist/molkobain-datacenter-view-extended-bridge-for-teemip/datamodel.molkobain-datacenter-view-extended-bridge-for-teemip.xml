@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.3">
+	<classes>
+		<class id="Rack">
+			<presentation>
+				<details>
+					<items>
+						<item id="col:col0">
+							<items>
+								<item id="fieldset:Rack:moreinfo">
+									<items>
+										<item id="ipaddress_id" _delta="define">
+											<rank>75</rank>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+						<item id="ipaddress_id" _delta="delete" />
+					</items>
+				</details>
+			</presentation>
+		</class>
+	</classes>
+</itop_design>
