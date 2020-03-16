@@ -3,6 +3,8 @@
 ## Description
 Bridge module for **Datacenter View Extended** and **IPAM for iTop** v2.3.0+ extensions. Will make sure they are fully compatible (typically, position the `ipaddress_id` field correctly).
 
+_Note: This extension is NOT necessary if you are using the **Datacenter View** (free) extension._
+
 ## Compatibility
 Install only if you have the following extensions on your iTop:
 * `molkobain-datacenter-view-extended/1.4.0` or newer
