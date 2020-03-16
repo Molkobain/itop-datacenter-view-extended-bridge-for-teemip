@@ -9,6 +9,6 @@ Install only if you have the following extensions on your iTop:
 * `teemip-datacenter-mgmt-adaptor/2.3.0` or newer
 
 ## Installation
-* Go to the _releases_ page and download the same version number as the _Datacenter view extended_ version you have on your iTop.
+* Go to the _[releases](https://github.com/Molkobain/itop-datacenter-view-extended-bridge-for-teemip/releases)_ page and download the same version number as the _Datacenter view extended_ version you have on your iTop.
 * Unzip the file and put the _molkobain-datacenter-view-extended-bridge-for-teemip_ folder under the _/extensions_ folder of your iTop
 * Run the setup, check the bridge and you are all set!
