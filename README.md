@@ -8,12 +8,13 @@ _Note: This extension is NOT necessary if you are using the **Datacenter View** 
 ## Compatibility
 Download the version according to the extensions you have on your iTop:
 
-* 📦 v1.5.0
-    * `molkobain-datacenter-view-extended/1.5.0` or newer
-    * `teemip-datacenter-mgmt-adaptor/2.6.0` or newer
-* 📦 v1.4.0
-    * `molkobain-datacenter-view-extended/1.4.0`
-    * `teemip-datacenter-mgmt-adaptor/2.3.0`
+📦 v1.5.0
+* `molkobain-datacenter-view-extended/1.5.0` or newer
+* `teemip-datacenter-mgmt-adaptor/2.6.0` or newer
+
+📦 v1.4.0
+* `molkobain-datacenter-view-extended/1.4.0`
+* `teemip-datacenter-mgmt-adaptor/2.3.0`
 
 ## Installation
 * Go to the _[releases](https://github.com/Molkobain/itop-datacenter-view-extended-bridge-for-teemip/releases)_ page and download the same version number as the _Datacenter view extended_ version you have on your iTop.
