@@ -9,6 +9,9 @@
 							<items>
 								<item id="fieldset:Rack:moreinfo">
 									<items>
+										<item id="macaddress" _delta="define">
+											<rank>74</rank>
+										</item>
 										<item id="ipaddress_id" _delta="define">
 											<rank>75</rank>
 										</item>
@@ -16,6 +19,31 @@
 								</item>
 							</items>
 						</item>
+						<item id="macaddress" _delta="delete" />
+						<item id="ipaddress_id" _delta="delete" />
+					</items>
+				</details>
+			</presentation>
+		</class>
+		<class id="Enclosure">
+			<presentation>
+				<details>
+					<items>
+						<item id="col:col0">
+							<items>
+								<item id="fieldset:Enclosure:moreinfo">
+									<items>
+										<item id="macaddress" _delta="define">
+											<rank>74</rank>
+										</item>
+										<item id="ipaddress_id" _delta="define">
+											<rank>85</rank>
+										</item>
+									</items>
+								</item>
+							</items>
+						</item>
+						<item id="macaddress" _delta="delete" />
 						<item id="ipaddress_id" _delta="delete" />
 					</items>
 				</details>
