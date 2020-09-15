@@ -1,7 +1,7 @@
 # Datacenter view extended ❤ IPAM for iTop
 
 ## Description
-Bridge module for **Datacenter View Extended** and **IPAM for iTop** v2.3.0+ extensions. Will make sure they are fully compatible (typically, position the `ipaddress_id` field correctly).
+Bridge module for **[Datacenter View Extended](https://www.molkobain.com/product/datacenter-view-extended/)** and **[IPAM for iTop](https://github.com/TeemIp/teemip-core-ip-mgmt)** v2.3.0+ extensions. Will make sure they are fully compatible (typically, position the `ipaddress_id` field correctly).
 
 _Note: This extension is NOT necessary if you are using the **Datacenter View** (free) extension._
 
