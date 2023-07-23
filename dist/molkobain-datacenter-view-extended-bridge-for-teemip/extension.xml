@@ -5,10 +5,12 @@
 	<author><![CDATA[Guillaume Lajarige]]></author>
 	<label><![CDATA[Bridge - Datacenter view extended + IPAM for iTop = ❤]]></label>
 	<description><![CDATA[Bridge for the 2 extensions to work perfectly together]]></description>
-	<version>1.5.0</version>
-	<release_date>2020-05-30</release_date>
-	<version_description><![CDATA[Add compatibility with IPAM 2.6+]]></version_description>
-	<itop_version_min>2.4.0</itop_version_min>
+	<version>1.5.1</version>
+	<release_date>2023-07-23</release_date>
+	<version_description><![CDATA[
+  * Fix auto select condition (thanks to @xtophe38 !)
+  * Increase iTop min. version to 2.7.0]]></version_description>
+	<itop_version_min>2.7.0</itop_version_min>
 	<status>stable</status>
 	<mandatory>false</mandatory>
 	<more_info_url>https://github.com/Molkobain/itop-datacenter-view-extended-bridge-for-teemip</more_info_url>
