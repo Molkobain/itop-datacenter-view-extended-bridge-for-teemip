@@ -10,7 +10,7 @@
 /** @noinspection PhpUnhandledExceptionInspection */
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'molkobain-datacenter-view-extended-bridge-for-teemip/1.5.1', array(
+	'molkobain-datacenter-view-extended-bridge-for-teemip/1.5.2', array(
         // Identification
         'label' => 'Bridge - Datacenter view extended + IPAM for iTop = ❤',
         'category' => 'business',
@@ -18,7 +18,7 @@ SetupWebPage::AddModule(
         // Setup
         'dependencies' => array(
             'molkobain-datacenter-view-extended/1.5.0',
-	        'teemip-datacenter-mgmt-adaptor/2.6.0',
+	        'molkobain-datacenter-view-extended/1.5.0||teemip-datacenter-mgmt-adaptor/2.6.0',
         ),
         'mandatory' => false,
         'visible' => false,

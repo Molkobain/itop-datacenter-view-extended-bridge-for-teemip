@@ -5,11 +5,10 @@
 	<author><![CDATA[Guillaume Lajarige]]></author>
 	<label><![CDATA[Bridge - Datacenter view extended + IPAM for iTop = ❤]]></label>
 	<description><![CDATA[Bridge for the 2 extensions to work perfectly together]]></description>
-	<version>1.5.1</version>
-	<release_date>2023-07-23</release_date>
+	<version>1.5.2</version>
+	<release_date>2023-09-09</release_date>
 	<version_description><![CDATA[
-  * Fix auto select condition (thanks to @xtophe38 !)
-  * Increase iTop min. version to 2.7.0]]></version_description>
+  * Fix extension not installable if TeemIP dependency not present]]></version_description>
 	<itop_version_min>2.7.0</itop_version_min>
 	<status>stable</status>
 	<mandatory>false</mandatory>
