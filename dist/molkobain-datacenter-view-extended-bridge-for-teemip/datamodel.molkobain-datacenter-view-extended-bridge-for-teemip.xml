@@ -19,8 +19,8 @@
 								</item>
 							</items>
 						</item>
-						<item id="macaddress" _delta="delete" />
-						<item id="ipaddress_id" _delta="delete" />
+						<item id="macaddress" _delta="delete_if_exists" />
+						<item id="ipaddress_id" _delta="delete_if_exists" />
 					</items>
 				</details>
 			</presentation>
@@ -43,8 +43,8 @@
 								</item>
 							</items>
 						</item>
-						<item id="macaddress" _delta="delete" />
-						<item id="ipaddress_id" _delta="delete" />
+						<item id="macaddress" _delta="delete_if_exists" />
+						<item id="ipaddress_id" _delta="delete_if_exists" />
 					</items>
 				</details>
 			</presentation>
